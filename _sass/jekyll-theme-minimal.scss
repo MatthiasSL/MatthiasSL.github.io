@@ -216,7 +216,7 @@ ul.navigation {
   padding-left: 0.5em;
 }
 
-li::before {
+li.navigation::before {
   content: "»";
   display: block;
   float: left;
