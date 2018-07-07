@@ -3,7 +3,7 @@ permalink: /cv
 ---
 ## Curriculum vitae
 Matthias Smed Larsen  
-Lærkehaven 1, 2980 Kokkedal 
+Lærkehaven 1, 2980 Kokkedal  
 E-mail: matthias@julsmed.dk
 
 ### Sproglige kompetencer
