@@ -33,7 +33,7 @@ E-mail: matthias@julsmed.dk
   - Artikler i ungdomsbladet *Bazooka*
 
 - **(2016)** Gruppekonsulent - Region Hovedstaden, Hillerød
-  - Konsulent for samtalegruppe for unge med angst og OCD ved Region Hovedstadens ungdomspsykiatriske ambulatorium
+  - Konsulent for samtalegruppe for unge med angst og OCD ved Region Hovedstadens ungdomspsykiatriske ambulatorium i Hillerød
   - Formidling af egne erfaringer
   - Formidling og arbejde med kognitiv adfærdsterapi og eksponering
 
