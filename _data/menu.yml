@@ -1,6 +1,6 @@
 - text: Forside
   url: /
 - text: CV
-  url: cv.html
+  url: /cv
 - text: Resurser
-  url: resurser.html
+  url: /resurser
