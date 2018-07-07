@@ -1,7 +1,6 @@
 ## Curriculum vitae
 Matthias Smed Larsen  
-Lærkehaven 1, 2980 Kokkedal  
-Telefon: 61798880  
+Lærkehaven 1, 2980 Kokkedal 
 E-mail: matthias@julsmed.dk
 
 ### Sproglige kompetencer
@@ -11,7 +10,6 @@ E-mail: matthias@julsmed.dk
 
 ### Uddannelse
 - **(2014-15)** Journalistik og kreativ skrivning - Medieskolen Lyngby
-- **(2014)** Kursus i jobsøgning og CV-skrivning - Handelsskolen København Nord
 - **(2015-18)** Højere Forberedelseseksamen (HF) - HF & VUC Nordsjælland, Hillerød-afdeling
 
 ### Erhvervserfaring
