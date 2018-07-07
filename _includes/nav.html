@@ -1,7 +1,7 @@
 {% assign navurl = page.url | remove: 'index.html' %}
 <ul class="navigation">
 {% for item in include.nav %}
-    <li>
+    <li class="navigation">
         <a href="{{ item.url }}">
             {% if item.url == navurl %}
                 <b>{{ item.text }}</b>
