@@ -1,5 +1,3 @@
-{{ page.url }}
-
 ## Curriculum vitae
 Matthias Smed Larsen  
 Lærkehaven 1, 2980 Kokkedal 
