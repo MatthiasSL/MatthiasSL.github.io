@@ -215,3 +215,10 @@ ul.navigation {
   font-size: 120%; 
   padding-left: 0.5em;
 }
+
+li.navigation::before {
+  content: "»";
+  display: block;
+  float: left;
+  width: 1.2em;
+}
