@@ -1,6 +1,3 @@
-<a href="{{ item.url }}">Link</a>
-{{ page.url }}
-
 ## Curriculum vitae
 Matthias Smed Larsen  
 Lærkehaven 1, 2980 Kokkedal 
