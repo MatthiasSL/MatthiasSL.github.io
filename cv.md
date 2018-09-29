@@ -46,7 +46,8 @@ E-mail: matthias@julsmed.dk
 - **Wikimedia Danmark**
   - Næstformand, *2017-18*
   - Bestyrelsesmedlem, *2017-nu*
-- Wikimedia Danmark er en frivillig forening med det primære formål at støtte op om projekterne der drives af Wikimedia Foundation, herunder Wikipedia, samt at fremme fri udveksling af viden generelt. Som eksempel på foreningens arbejde kan nævnes tiltaget »Wiki Labs Kultur« der drives i samarbejde med Statens Museum for Kunst, Det Danske Filminstitut m.fl. I mit virke som bestyrelsesmedlem har jeg blandt andet beskæftiget mig med EU-politik omkring ophavsret.
+
+> Wikimedia Danmark er en frivillig forening med det primære formål at støtte op om projekterne der drives af Wikimedia Foundation, herunder Wikipedia, samt at fremme fri udveksling af viden generelt. Som eksempel på foreningens arbejde kan nævnes tiltaget »Wiki Labs Kultur« der drives i samarbejde med Statens Museum for Kunst, Det Danske Filminstitut m.fl. I mit virke som bestyrelsesmedlem har jeg blandt andet beskæftiget mig med EU-politik omkring ophavsret.
 
 ### Udvalgt arbejde
 - »[Afstemningen i dag kan påvirke alle, der lægger indhold på internettet](https://www.b.dk/kronikker/afstemningen-i-morgen-kan-paavirke-alle-der-laegger-indhold-paa-nettet-det-er)« i *Berlingske Tidende* 5. juli 2018. Kronik om europæisk ophavsretslovgivning.
