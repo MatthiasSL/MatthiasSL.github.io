@@ -7,6 +7,39 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+<script type="text/javascript">
+	var images = [
+		"b6.jpg",
+		"b7.jpg"
+	];
+	
+	var capts  = [
+		"Redaktionsmøde (2017)",
+		"Redaktionsmøde (2021)"
+	];
+
+	var rand = Math.floor(Math.random() * images.length);
+	
+	function getImageTag() {
+		var img = '<img src="';
+		img += images[rand];
+		img += '">';
+		return img;
+	}
+	
+	function getFigcaptionTag() {
+		var figcaption = '<figcaption>';
+		figcaption += capts[rand];
+		figcaption += '</figcaption>';
+		return figcaption;
+		
+	function endImageTag() {
+		return '</img>';
+	}
+	}
+	
+	
+</script>
 </head>
 <body>
 <header>
@@ -15,16 +48,18 @@
 	<a href="arkiv.html">Arkiv</a>
 	<a href="bidrag.html">Bidrag</a>
 	<a href="redaktion.html">Redaktion</a>
-	<a href="advisoryboard.html">Advisory Board</a>
+	<a href="advisoryboard.html" lang="en">Advisory Board</a>
 </nav>
 </header>
 
 <h1>Redaktion</h1>
 
 <figure>
-	<img src="b7.jpg">
-	<figcaption>Redaktionsmøde (2021)</i></figcaption>
-	</img>
+	<script>
+	document.write(getImageTag());
+	document.write(getFigcaptionTag());
+	document.write(endImageTag());
+	</script>
 </figure>
 
 <p><i>Retskraft</i> udgives af en redaktion bestående af studerende ved Det Juridiske Fakultet, Københavns Universitet. Både studerende på den juridiske bachelor- og kandidatuddannelse samt studerende på kandidatuddannelsen i samfundsvidenskabelig jura har mulighed for at blive en del af redaktionen.</p>
