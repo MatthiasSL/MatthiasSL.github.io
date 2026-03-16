@@ -1,0 +1,14 @@
+:root {
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		color-scheme: dark;
+		--accent: #A8DADC;
+		--accent-hover: #D3EFF0;
+	}
+}
+
+.fa {
+	text-decoration: none;
+}
