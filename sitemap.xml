@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://www.matthias.dk/</loc>
+
+      <lastmod>2026-03-25</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://www.matthias.dk/files/Curriculum%20vitae.pdf</loc>
+
+      <lastmod>2026-02-08</lastmod>
+
+      <changefreq>yearly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://www.matthias.dk/publikationer.html</loc>
+
+      <lastmod>2026-03-25</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://www.matthias.dk/files/Publication%20list.pdf</loc>
+
+      <lastmod>2026-03-16</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://www.matthias.dk/meliusforlag.html</loc>
+
+      <lastmod>2026-03-25</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.7</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://www.matthias.dk/files/mf/Miljønødretsdommen_978-87-976913-0-4.pdf</loc>
+
+      <lastmod>2026-03-16</lastmod>
+
+      <changefreq>never</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+</urlset> 
